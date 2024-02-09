@@ -1,3 +1,6 @@
+# dev-detective
+A responsive site which can fetch any user's github profile data is a beautiful ui
+
 # Pre - requisites
 
 this project uses,
@@ -15,8 +18,7 @@ To run this project on live server, run
 
 `npm run start`
 
-# dev-detective
-A responsive site which can fetch any user's github profile data is a beautiful ui
+# Build for deploy,
 
 To build this file, run
 
