@@ -11,7 +11,7 @@ this project uses,
 
 - [TailwindCSS](https://tailwindcss.com/)
 
-- https://api.github.com/users/user_name
+- https://api.github.com/users/user_name (replace 'user_name' with github user name to search for)
 
 
 # Running Locally,
