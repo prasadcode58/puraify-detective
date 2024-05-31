@@ -1,9 +1,9 @@
 # puraify-detective
-A responsive site which can fetch any user's github profile data is a beautiful ui
+A responsive site which can fetch any user's github profile data is a beautiful UI.
 
 # Pre-requisites
 
-this project uses,
+This project uses,
 
 - [vitejs](https://vitejs.dev/)
 
