@@ -14,19 +14,19 @@ this project uses,
 - [Github API](https://api.github.com/users/user_name) (replace 'user_name' with github user name to search for)
 
 
-# Running Locally,
+# Running Locally
 
 To run this project on live server, run
 
 `npm run start`
 
-# Build for deploy,
+# Build for deploy
 
 To build this file, run
 
 `npm run build`
 
-# adding svgs,
+# Adding svgs
 
 to add svg in your 'after build' files, convert svg html code to data uri code using any site such as,
 
