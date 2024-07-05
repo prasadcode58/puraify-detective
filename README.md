@@ -13,6 +13,11 @@ This project uses,
 
 - [Github API](https://api.github.com/users/user_name) (replace 'user_name' with github user name to search for)
 
+# Install Packages
+
+To install all packages used, run
+
+`npm install i`
 
 # Running Locally
 
